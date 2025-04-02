@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Login">Login</string>
+    <string name="snap_food">Snap Food!</string>
+    <string name="Login_form_title">Login Form</string>
+    <string name="firstname_hint">First Name\n</string>
+    <string name="lastname_hint">Last Name</string>
+    <string name="gender">Gender</string>
+</resources>
